@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProyectoEntrevista\\CitasMedicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|c:\\proyectoentrevista\\citasmedicas\\citasmedicas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|c:\\proyectoentrevista\\citasmedicas\\citasmedicas\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|c:\\proyectoentrevista\\citasmedicas\\citasmedicas\\controllers\\especialidadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\controllers\\especialidadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|c:\\proyectoentrevista\\citasmedicas\\citasmedicas\\services\\interfaces\\iespecialidadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\services\\interfaces\\iespecialidadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|c:\\proyectoentrevista\\citasmedicas\\citasmedicas\\services\\interfaces\\ipacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\services\\interfaces\\ipacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|c:\\proyectoentrevista\\citasmedicas\\citasmedicas\\utilidades\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\utilidades\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|c:\\proyectoentrevista\\citasmedicas\\citasmedicas\\models\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\models\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|c:\\proyectoentrevista\\citasmedicas\\citasmedicas\\dtos\\pacientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\dtos\\pacientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|c:\\proyectoentrevista\\citasmedicas\\citasmedicas\\dtos\\especialidaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\dtos\\especialidaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|c:\\proyectoentrevista\\citasmedicas\\citasmedicas\\data\\dapperdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\data\\dapperdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|c:\\proyectoentrevista\\citasmedicas\\citasmedicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|c:\\proyectoentrevista\\citasmedicas\\citasmedicas\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|c:\\proyectoentrevista\\citasmedicas\\citasmedicas\\services\\implements\\especialidadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\services\\implements\\especialidadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|c:\\proyectoentrevista\\citasmedicas\\citasmedicas\\services\\implements\\pacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92666B9-709A-4BF0-88B8-028BA1BFEB62}|CitasMedicas\\CitasMedicas.csproj|solutionrelative:citasmedicas\\services\\implements\\pacienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\appsettings.json",
+              "RelativeDocumentMoniker": "CitasMedicas\\appsettings.json",
+              "ToolTip": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\appsettings.json",
+              "RelativeToolTip": "CitasMedicas\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T17:17:33.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Especialidad.cs",
+              "DocumentMoniker": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\Models\\Especialidad.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Models\\Especialidad.cs",
+              "ToolTip": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\Models\\Especialidad.cs",
+              "RelativeToolTip": "CitasMedicas\\Models\\Especialidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:02:04.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PacienteDTO.cs",
+              "DocumentMoniker": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\DTOs\\PacienteDTO.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\DTOs\\PacienteDTO.cs",
+              "ToolTip": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\DTOs\\PacienteDTO.cs",
+              "RelativeToolTip": "CitasMedicas\\DTOs\\PacienteDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:01:34.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\Utilidades\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Utilidades\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\Utilidades\\AutoMapperProfile.cs",
+              "RelativeToolTip": "CitasMedicas\\Utilidades\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:16:20.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPacienteService.cs",
+              "DocumentMoniker": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\Services\\Interfaces\\IPacienteService.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Services\\Interfaces\\IPacienteService.cs",
+              "ToolTip": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\Services\\Interfaces\\IPacienteService.cs",
+              "RelativeToolTip": "CitasMedicas\\Services\\Interfaces\\IPacienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:14:58.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEspecialidadService.cs",
+              "DocumentMoniker": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\Services\\Interfaces\\IEspecialidadService.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Services\\Interfaces\\IEspecialidadService.cs",
+              "ToolTip": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\Services\\Interfaces\\IEspecialidadService.cs",
+              "RelativeToolTip": "CitasMedicas\\Services\\Interfaces\\IEspecialidadService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:14:18.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EspecialidadController.cs",
+              "DocumentMoniker": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\Controllers\\EspecialidadController.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Controllers\\EspecialidadController.cs",
+              "ToolTip": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\Controllers\\EspecialidadController.cs",
+              "RelativeToolTip": "CitasMedicas\\Controllers\\EspecialidadController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:09:30.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "CitasMedicas\\Controllers\\PacienteController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:09:47.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EspecialidadDTO.cs",
+              "DocumentMoniker": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\DTOs\\EspecialidadDTO.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\DTOs\\EspecialidadDTO.cs",
+              "ToolTip": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\DTOs\\EspecialidadDTO.cs",
+              "RelativeToolTip": "CitasMedicas\\DTOs\\EspecialidadDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:01:19.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DapperDBContext.cs",
+              "DocumentMoniker": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\Data\\DapperDBContext.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Data\\DapperDBContext.cs",
+              "ToolTip": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\Data\\DapperDBContext.cs",
+              "RelativeToolTip": "CitasMedicas\\Data\\DapperDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:00:42.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\Program.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Program.cs",
+              "ToolTip": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\Program.cs",
+              "RelativeToolTip": "CitasMedicas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:33:11.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Models\\Paciente.cs",
+              "ToolTip": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\Models\\Paciente.cs",
+              "RelativeToolTip": "CitasMedicas\\Models\\Paciente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:02:13.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EspecialidadService.cs",
+              "DocumentMoniker": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\Services\\Implements\\EspecialidadService.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Services\\Implements\\EspecialidadService.cs",
+              "ToolTip": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\Services\\Implements\\EspecialidadService.cs",
+              "RelativeToolTip": "CitasMedicas\\Services\\Implements\\EspecialidadService.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowEYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:12:07.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PacienteService.cs",
+              "DocumentMoniker": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\Services\\Implements\\PacienteService.cs",
+              "RelativeDocumentMoniker": "CitasMedicas\\Services\\Implements\\PacienteService.cs",
+              "ToolTip": "C:\\ProyectoEntrevista\\CitasMedicas\\CitasMedicas\\Services\\Implements\\PacienteService.cs",
+              "RelativeToolTip": "CitasMedicas\\Services\\Implements\\PacienteService.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowBwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:26:39.038Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
