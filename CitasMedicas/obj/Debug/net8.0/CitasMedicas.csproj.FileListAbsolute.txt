@@ -149,3 +149,4 @@ C:\ProyectoEntrevista\CitasMedicas\CitasMedicas\obj\Debug\net8.0\refint\CitasMed
 C:\ProyectoEntrevista\CitasMedicas\CitasMedicas\obj\Debug\net8.0\CitasMedicas.pdb
 C:\ProyectoEntrevista\CitasMedicas\CitasMedicas\obj\Debug\net8.0\CitasMedicas.genruntimeconfig.cache
 C:\ProyectoEntrevista\CitasMedicas\CitasMedicas\obj\Debug\net8.0\ref\CitasMedicas.dll
+C:\ProyectoEntrevista\CitasMedicas\CitasMedicas\obj\Debug\net8.0\CitasMedicas.sourcelink.json

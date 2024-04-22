@@ -32,7 +32,7 @@ namespace CitasMedicas.Services.Implements
         {
             using (var connection = this._dbContext.CreateConnection())
             {
-                var paciente = await connection.QueryFirstOrDefaultAsync<Paciente>("ObtenerPacienteConDepartamentoPorId", new { idPaciente }, commandType: CommandType.StoredProcedure);
+                var paciente = await connection.QueryFirstOrDefaultAsync<Paciente>("ObtenerPacienteConEspecialidadPorId", new { idPaciente }, commandType: CommandType.StoredProcedure);
                 return _mapper.Map<PacienteDTO>(paciente);
             }
         }
