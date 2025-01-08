@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 
 namespace CitasMedicas.Controllers
-{
+{   //interactua con el http 
     [Route("especialidad")]
     [ApiController]
     public class EspecialidadController : ControllerBase
@@ -28,7 +28,7 @@ namespace CitasMedicas.Controllers
             var dpto = await this._especialidadService.Get(idEspecialidad);
             if (dpto != null) return Ok(dpto);
             else return NotFound();
-            //guardar
+            
         }
         [HttpPost("guardar")]
         public async Task<IActionResult> AddEspecialidad(EspecialidadDTO _especialidad)
@@ -36,7 +36,7 @@ namespace CitasMedicas.Controllers
             var dpto = await this._especialidadService.Add(_especialidad);
             if (dpto != null) return Ok(dpto);
             else return NotFound();
-            //actualizar
+            
         }
         [HttpPut("actualizar/{idEspecialidad}")]
         public async Task<IActionResult> UpdateEspecialidad(int idEspecialidad, EspecialidadDTO especialidad)

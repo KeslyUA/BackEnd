@@ -7,7 +7,7 @@ using CitasMedicas.Services.Interfaces;
 using System.Data;
 
 namespace CitasMedicas.Services.Implements
-{
+{               //interactua con la base de datos get,add,update,delete
     public class EspecialidadService : IEspecialidadService
     {
         private readonly DapperDBContext _dbContext;

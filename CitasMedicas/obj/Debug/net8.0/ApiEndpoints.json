@@ -1,0 +1,160 @@
+[
+  {
+    "ContainingType": "CitasMedicas.Controllers.EspecialidadController",
+    "Method": "GetById",
+    "RelativePath": "especialidad/{idEspecialidad}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idEspecialidad",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CitasMedicas.Controllers.EspecialidadController",
+    "Method": "UpdateEspecialidad",
+    "RelativePath": "especialidad/actualizar/{idEspecialidad}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idEspecialidad",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "especialidad",
+        "Type": "CitasMedicas.DTOs.EspecialidadDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CitasMedicas.Controllers.EspecialidadController",
+    "Method": "DeletePaciente",
+    "RelativePath": "especialidad/eliminar/{idEspecialidad}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idEspecialidad",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CitasMedicas.Controllers.EspecialidadController",
+    "Method": "AddEspecialidad",
+    "RelativePath": "especialidad/guardar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_especialidad",
+        "Type": "CitasMedicas.DTOs.EspecialidadDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CitasMedicas.Controllers.EspecialidadController",
+    "Method": "GetAllEspecialidad",
+    "RelativePath": "especialidad/lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CitasMedicas.Controllers.PacienteControllers",
+    "Method": "GetById",
+    "RelativePath": "paciente/{idPaciente}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idPaciente",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CitasMedicas.Controllers.PacienteControllers",
+    "Method": "UpdatePaciente",
+    "RelativePath": "paciente/actualizar/{idPaciente}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idPaciente",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "paciente",
+        "Type": "CitasMedicas.DTOs.PacienteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CitasMedicas.Controllers.PacienteControllers",
+    "Method": "DeletePaciente",
+    "RelativePath": "paciente/eliminar/{idPaciente}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idPaciente",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CitasMedicas.Controllers.PacienteControllers",
+    "Method": "AddPaciente",
+    "RelativePath": "paciente/guardar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_paciente",
+        "Type": "CitasMedicas.DTOs.PacienteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CitasMedicas.Controllers.PacienteControllers",
+    "Method": "GetAllPaciente",
+    "RelativePath": "paciente/lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
